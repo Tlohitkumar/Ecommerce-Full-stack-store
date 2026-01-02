@@ -28,3 +28,5 @@ MySQL / PostgreSQL (configurable)
 📌 Project Goal
 
 The goal of this project is to demonstrate a scalable, real-world ecommerce application using modern full-stack technologies, following best practices in software architecture, security, and UI/UX design.
+
+
